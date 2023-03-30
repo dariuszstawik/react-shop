@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-shop/static/css/main.5903abc7.css",
+    "main.js": "/react-shop/static/js/main.2dd3f922.js",
+    "static/media/about1.jpg": "/react-shop/static/media/about1.eae28965686e8ec49055.jpg",
+    "static/media/hero2.jpg": "/react-shop/static/media/hero2.8f1e598107a938dd25c0.jpg",
+    "static/media/hero.jpg": "/react-shop/static/media/hero.f0c914c1999d7090364a.jpg",
+    "static/media/Home1.jpg": "/react-shop/static/media/Home1.7c64b3fafd284dc4499f.jpg",
+    "static/media/basil.jpg": "/react-shop/static/media/basil.916702aa717e5fe78a6d.jpg",
+    "static/media/milk.jpg": "/react-shop/static/media/milk.3147519b0a6ddb6ac0e4.jpg",
+    "static/media/milk_coffee.jpg": "/react-shop/static/media/milk_coffee.3e3fbcbae2470e45c604.jpg",
+    "static/media/goat_cheese.jpg": "/react-shop/static/media/goat_cheese.30a5a9611b5aa7a4c5f1.jpg",
+    "static/media/sour_milk.jpg": "/react-shop/static/media/sour_milk.58fa86d87c1554b1cb3b.jpg",
+    "static/media/butter.jpg": "/react-shop/static/media/butter.3baf0ee145ede7dc56a0.jpg",
+    "static/media/tomatoes.jpg": "/react-shop/static/media/tomatoes.c57805ed7cf36916a5c4.jpg",
+    "static/media/rucola.jpg": "/react-shop/static/media/rucola.b9b67513c2524f9c289a.jpg",
+    "static/media/cow_cheese.jpg": "/react-shop/static/media/cow_cheese.544409176fdec9ed3d79.jpg",
+    "static/media/sprout.svg": "/react-shop/static/media/sprout.d5944226ac25f423af06acb1bce06cb1.svg",
+    "static/media/payment.svg": "/react-shop/static/media/payment.1c5eaaea0003e2e36be0ba5890efbf07.svg",
+    "static/media/delivery.svg": "/react-shop/static/media/delivery.7635527a08754bd4d114c3801ed937c3.svg",
+    "index.html": "/react-shop/index.html",
+    "static/media/happy-face.svg": "/react-shop/static/media/happy-face.44c4d6dbff58c71f3d81bd1742960253.svg",
+    "main.5903abc7.css.map": "/react-shop/static/css/main.5903abc7.css.map",
+    "main.2dd3f922.js.map": "/react-shop/static/js/main.2dd3f922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5903abc7.css",
+    "static/js/main.2dd3f922.js"
+  ]
+}
