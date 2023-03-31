@@ -17,7 +17,7 @@ const Slider = () => {
         </div>
 
         <div>
-          <img src={hero2Img} alt="img1" />
+          <img src={hero2Img} alt="img2" />
         </div>
       </AutoplaySlider>
     </StyledSliderContainer>

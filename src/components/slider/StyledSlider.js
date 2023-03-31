@@ -18,7 +18,7 @@ export const StyledSliderContainer = styled.div`
   }
 
   &::after {
-    content: "Natural, fresh and locally sourced";
+    content: "Trust Krasula, eat fresh";
     width: 70vw;
     font-size: 20px;
 

@@ -13,16 +13,34 @@ const Home = () => {
     <>
       <Slider />
       <AboutSection
-        decoratedContent="Tasty and fresh greens"
-        title="Modern farming"
+        decoratedContent="Eat tasty and fresh"
+        title="Welcome to Krasulove"
         img={home1}
       >
-        Sed ut perspiciatis aperiam unde omnis istetus error volupta dolorem
-        que, totam rem unde omnis. Lorem ipsum incididunt ut labore et dolore
-        magna aliqua dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad dolore
-        magna aliqua minim veniam, quis nostrud exercitation ullamco laboris
-        nisi ut aliquip ex ea commodo.
+        Photos on this website under Creative Commons License by:
+        <ul>
+          <li>
+            {" "}
+            <a href="https://www.flickr.com/photos/jobeca/47368834172/">
+              Jarr1942
+            </a>
+          </li>
+          <li>
+            <a href="https://www.flickr.com/photos/nicholas_t/19596429944/">
+              Nicholas_T
+            </a>
+          </li>
+          <li>
+            <a href="https://www.flickr.com/photos/almostsummersky/30068146102/">
+              Katie Wheeler
+            </a>
+          </li>
+          <li>
+            <a href="https://www.flickr.com/photos/usaid-biodiversity-forestry/4325611549/">
+              USAID Biodiversity & Forestry
+            </a>
+          </li>
+        </ul>
       </AboutSection>
       <AdvantagesSection />
       <ProductsSection />
