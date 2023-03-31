@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/react-shop/static/css/main.5903abc7.css",
-    "main.js": "/react-shop/static/js/main.47cce357.js",
-    "static/media/about1.jpg": "/react-shop/static/media/about1.eae28965686e8ec49055.jpg",
-    "static/media/hero2.jpg": "/react-shop/static/media/hero2.8f1e598107a938dd25c0.jpg",
-    "static/media/hero.jpg": "/react-shop/static/media/hero.f0c914c1999d7090364a.jpg",
-    "static/media/Home1.jpg": "/react-shop/static/media/Home1.7c64b3fafd284dc4499f.jpg",
+    "main.js": "/react-shop/static/js/main.7daa0d42.js",
+    "static/media/hero.jpg": "/react-shop/static/media/hero.704ef72b53cd1a6dfcc0.jpg",
+    "static/media/hero2.jpg": "/react-shop/static/media/hero2.03fdebb2494d3d23823a.jpg",
+    "static/media/Home1.jpg": "/react-shop/static/media/Home1.9237c8ebe2fb3b2af714.jpg",
+    "static/media/about1.jpg": "/react-shop/static/media/about1.8e4a642f11b4410a47c0.jpg",
     "static/media/basil.jpg": "/react-shop/static/media/basil.916702aa717e5fe78a6d.jpg",
     "static/media/milk.jpg": "/react-shop/static/media/milk.3147519b0a6ddb6ac0e4.jpg",
     "static/media/milk_coffee.jpg": "/react-shop/static/media/milk_coffee.3e3fbcbae2470e45c604.jpg",
@@ -21,10 +21,10 @@
     "index.html": "/react-shop/index.html",
     "static/media/happy-face.svg": "/react-shop/static/media/happy-face.44c4d6dbff58c71f3d81bd1742960253.svg",
     "main.5903abc7.css.map": "/react-shop/static/css/main.5903abc7.css.map",
-    "main.47cce357.js.map": "/react-shop/static/js/main.47cce357.js.map"
+    "main.7daa0d42.js.map": "/react-shop/static/js/main.7daa0d42.js.map"
   },
   "entrypoints": [
     "static/css/main.5903abc7.css",
-    "static/js/main.47cce357.js"
+    "static/js/main.7daa0d42.js"
   ]
 }
