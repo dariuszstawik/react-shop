@@ -107,9 +107,9 @@ const Footer = () => {
       <StyledItem>
         <StyledFooterNav>
           <h3>Contact</h3>
-          {/* <li>Rajcza ul. Boczna 1</li> */}
+          <li>Za Górami ul. Zdrowa 1</li>
           <li>office@krasulove.pl</li>
-          <li>+48 255 52 25</li>
+          <li>+48 32 255 52 25</li>
         </StyledFooterNav>
       </StyledItem>
 

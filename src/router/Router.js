@@ -8,6 +8,7 @@ import AboutUs from "../views/about-us";
 import Home from "../views/home";
 import Products from "../views/products";
 import SingleProduct from "../views/single-product";
+import Contact from "../views/contact";
 
 const Router = () => {
   return (
@@ -18,7 +19,7 @@ const Router = () => {
         <Route path={routes.products} element={<Products />} />
         <Route path={routes.product} element={<SingleProduct />} />
         <Route path={routes.about} element={<AboutUs />} />
-        <Route path={routes.contact} element="" />
+        <Route path={routes.contact} element={<Contact />} />
       </Routes>
       <Footer />
     </HashRouter>
