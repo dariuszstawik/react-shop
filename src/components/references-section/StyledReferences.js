@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const StyledReferencesContainer = styled.div`
-  width: 70vw;
+  width: 70%;
   height: 30vh;
   position: relative;
 `;
 
 export const ReferencesWrapper = styled.div`
-  width: 60vw;
+  width: 60%;
   height: 330px;
   margin: auto;
   margin-bottom: 100px;

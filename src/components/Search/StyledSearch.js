@@ -1,27 +1,23 @@
 import styled from "styled-components";
+import SearchIcon from "@mui/icons-material/Search";
 
-export const StyledForm = styled.form`
-  /* margin-bottom: 50px; */
-  /* background-color: ${({ theme }) => theme.colors.lightGray}; */
-  /* padding: 5%; */
-  /* border: 1px solid ${({ theme }) => theme.colors.lightGray}; */
-`;
+export const StyledForm = styled.form``;
 
 export const StyledSearchInput = styled.input`
   width: 60%;
   height: 40px;
   border: 1px solid ${({ theme }) => theme.colors.darkGray};
-  /* background-color: ${({ theme }) => theme.colors.lightGray}; */
   margin-right: 5%;
   margin-bottom: 10px;
 `;
 
-export const StyledSearchIcon = styled.img`
+export const StyledSearchIcon = styled(SearchIcon)`
   display: block;
   margin: auto;
+  font-size: 16px !important;
 
   @media (min-width: ${({ theme }) => theme.media.desktop}) {
-    display: none;
+    display: none !important;
   }
 `;
 

@@ -7,12 +7,23 @@ export const StyledProducts = styled.div`
 
 export const ProductsContainer = styled.div`
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-rows: auto auto;
+
+  @media (min-width: ${({ theme }) => theme.media.tablet}) {
+    grid-template-rows: "";
+    grid-template-columns: auto auto;
+  }
 `;
 
 export const ProductsAside = styled.div`
+  min-width: 400px;
   margin-top: 40px;
-  margin-right: 30px;
-  padding-left: 5%;
+  padding: 0 70px;
   /* background-color: ${({ theme }) => theme.colors.lightGray}; */
+  grid-row: 1 / span 1;
+
+  @media (min-width: ${({ theme }) => theme.media.tablet}) {
+    grid-row: "";
+    grid-column: 2 / span 1;
+  }
 `;

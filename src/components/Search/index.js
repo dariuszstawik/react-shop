@@ -32,7 +32,7 @@ const Search = () => {
       <StyledSearchInput type="search" id="site-search" name="q" />
 
       <Button isSmall type="submit">
-        <StyledSearchIcon src="https://img.icons8.com/material-outlined/24/null/search--v1.png" />
+        <StyledSearchIcon />
         <StyledSearchContent>search</StyledSearchContent>
       </Button>
     </StyledForm>
