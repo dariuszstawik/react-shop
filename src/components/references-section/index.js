@@ -51,7 +51,7 @@ const References = () => {
 
           <ItemWrapper>
             <StyledArrow
-              right
+              isRight
               onClick={() => {
                 dispatch(increaseReferencesIndex());
               }}
@@ -59,22 +59,7 @@ const References = () => {
               v
             </StyledArrow>
           </ItemWrapper>
-
-          {/* <SectionParagraph>
-            {referencesData[SelectedReferencesIndex].content}
-          </SectionParagraph>
-          <DecoratedText>
-            {referencesData[SelectedReferencesIndex].name};
-          </DecoratedText> */}
         </ReferencesWrapper>
-        {/* <span
-          onClick={(e) => {
-            dispatch(changeReferencesIndex());
-            // e.target.animate(animation, animationDetails);
-          }}
-        >
-          ++++
-        </span> */}
       </div>
     </>
   );

@@ -20,7 +20,7 @@ const Contact = () => {
         orci id sem.
         <p>
           <LocationOnOutlinedIcon fontSize="small" sx={{ mr: "10px" }} /> Za
-          Górami za Lasami ul. Zdrowa 1
+          Górami za Lasami ul. Zdrowa
         </p>
         <p>
           <CallOutlinedIcon fontSize="small" sx={{ mr: "10px" }} />

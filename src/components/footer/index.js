@@ -107,20 +107,19 @@ const Footer = () => {
       <StyledItem>
         <StyledFooterNav>
           <h3>Contact</h3>
-          <li>Za Górami ul. Zdrowa 1</li>
+          <li>Za Górami ul. Zdrowa</li>
           <li>office@krasulove.pl</li>
           <li>+48 32 255 52 25</li>
         </StyledFooterNav>
       </StyledItem>
 
-      <StyledItem>
+      {/* <StyledItem>
         <StyledFooterNav>
           <h3>Cart</h3>
           <li>Items</li>
           <li>Total price</li>
-          {/* <li>Go to cart</li> */}
         </StyledFooterNav>
-      </StyledItem>
+      </StyledItem> */}
     </StyledFooterWrapper>
   );
 };

@@ -1,25 +1,22 @@
 import styled from "styled-components";
-import { theme } from "../../styledComponents/theme";
 
 export const StyledSectionWrapper = styled.div`
-  width: 100vw;
-  min-height: 80vh;
+  width: 100%;
+  min-height: 80%;
   padding: 30px 0;
-  /* display: flex;
-  flex-direction: row-reverse; */
 
   img {
     width: 100%;
-    /* margin-right: 40px; */
     @media (min-width: ${({ theme }) => theme.media.desktop}) {
-      width: 750px;
-      /* margin-right: 40px; */
+      max-width: 750px;
+      min-width: 580px;
     }
   }
 
   @media (min-width: ${({ theme }) => theme.media.desktop}) {
     display: flex;
-    flex-direction: ${(props) => (props.isReverse ? "row-reverse" : "row")};
+    flex-direction: ${({ isReverse }) => (isReverse ? "row-reverse" : "row")};
+    padding-left: ${({ isReverse }) => (isReverse ? "40px" : "")};
   } ;
 `;
 
