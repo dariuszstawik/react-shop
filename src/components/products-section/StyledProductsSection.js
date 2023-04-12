@@ -10,5 +10,8 @@ export const StyledSectionHeader = styled.div``;
 
 export const StyledImg = styled.img`
   border: 1px solid ${({ theme }) => theme.colors.lightGray};
-  width: ${({ isLarge }) => (isLarge ? "500px" : "220px")};
+  width: ${({ isLarge }) => (isLarge ? "300px" : "220px")};
+  @media (min-width: ${({ theme }) => theme.media.desktop}) {
+    width: ${({ isLarge }) => (isLarge ? "500px" : "220px")};
+  }
 `;
