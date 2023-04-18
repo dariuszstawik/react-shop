@@ -1,10 +1,10 @@
-![Krasulove cover photo](assets/img/krasulove_readme.jpg)
+![Krasulove cover photo](src/assets/img/krasulove_readme.jpg)
 
 # Krasulove: online store
 
 Krasulove is a online store project presenting organic products. It has not been finished yet - work in progress.
 
-You can see and try this application here: [https://dariuszstawik.github.io/react-shop/] (https://dariuszstawik.github.io/react-shop/)
+You can see and try this application here: [https://dariuszstawik.github.io/react-shop/](https://dariuszstawik.github.io/react-shop/)
 
 ## Technology stack
 
