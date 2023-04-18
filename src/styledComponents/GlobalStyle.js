@@ -14,7 +14,6 @@ html {
   
   body {
     font-family: 'Raleway', sans-serif;
-    /* font-family: 'Cormorant',serif; */
     overflow-x: hidden;
     width: 100%;
     min-height: 100vh;

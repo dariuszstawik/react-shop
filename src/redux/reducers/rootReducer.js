@@ -3,6 +3,7 @@ import { referencesData } from "../../components/references-section/referencesDa
 const initialState = {
   isMobileMenuActive: false,
   products: [],
+  cart: [],
   selectedCategory: "all",
   selectedProduct: "",
   referencesIndex: 0,

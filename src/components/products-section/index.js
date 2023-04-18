@@ -12,8 +12,8 @@ const ProductsSection = () => {
   return (
     <StyledSectionWrapper>
       <StyledSectionHeader>
-        <DecoratedText isAlignedCenter>Most popular products</DecoratedText>
-        <SectionTitle isAlignedCenter>Organic products</SectionTitle>
+        <DecoratedText isAlignedCenter>Recommended by Krasula</DecoratedText>
+        <SectionTitle isAlignedCenter>Popular products</SectionTitle>
         <SectionParagraph isAlignedCenter>
           Sed ut perspiciatis aperiam unde omnis istetus error volupta dolorem
           que laudantium, totam rem.
